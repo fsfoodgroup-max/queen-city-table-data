@@ -1,0 +1,38 @@
+{
+  "_about": "Edit these lists to control the guide. Names are matched without regard to case or punctuation.",
+  "always_keep": [
+    "Midwood Smokehouse",
+    "Yafo Kitchen",
+    "Mama Ricotta's",
+    "Little Mama's Italian",
+    "Paco's Tacos & Tequila",
+    "Calle Sol Latin Cafe & Cevicheria",
+    "Noble Smoke",
+    "Sabor Latin Street Grill",
+    "Curry Gate",
+    "Fin & Fino",
+    "Tacos El Nevado"
+  ],
+  "always_exclude": [
+    "North Italia",
+    "The Cheesecake Factory",
+    "Olive Garden",
+    "Fogo de Chao",
+    "Eddie V's",
+    "Fleming's Prime Steakhouse & Wine Bar",
+    "Seasons 52",
+    "Del Frisco's",
+    "Ruth's Chris Steak House",
+    "Capital Grille",
+    "Yard House",
+    "Zenshi Sushi",
+    "bb.q Chicken"
+  ],
+  "settings": {
+    "chain_threshold_outside_carolinas": 8,
+    "min_confidence": 0.8,
+    "require_website": true,
+    "website_checks_per_night": 400,
+    "drop_after_failed_checks": 3
+  }
+}
