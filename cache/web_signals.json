@@ -1,0 +1,10748 @@
+{
+ "milanos pizza and pasta": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "kickin pig": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "nc noodle bar": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "tropical sunrise cafe": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "brooklyn pizza and pasta": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "tropical escape cafe": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "island grill and pub": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "bernard motorcar company": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "helens hot chicken": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "houston enterprises": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "patty wagon cafe": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "fatz cafe": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "chefs kitchen": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "kochi by lake": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "big allison creek in lake wylie sc": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "charanda of rock hill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "empire pizza and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "jay birds deli and diner": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "southern salads and sandwich company": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "nacho business": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "el cancun mexican": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "ebenezer grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "rainbow asian bistro": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "shrimp boat": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "famous toastery": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "nishie gs cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "panda hut": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "caddy shack": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "southern salads": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "big papas pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "koizumi express": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "tasty": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "zora food and wine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "sub station 2": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "lilys bistro": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "hootie whoooo": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "christophers grill and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "catfish cove": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "raynathans": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "drift on lake wylie": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "cherry sushi bar": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "tequileria": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "37 sol southwest kitchen and tequila bar": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "lake wylie pizza and italian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "papa docs shore club": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "copper premium pub": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "wylies eats and drinks": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "shanes rib shack": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "bluewater bistro": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "amberjack seafood and steaks": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "highway 55 burgers shakes and fries": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "sonnys dutch mill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "mama poke bowl": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "brookwood farms bbq": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "umi teriyaki and sushi": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "york crossing": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "twin tops fish camp": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "steele creek cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "east coast wings grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "bonzai thai cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "farmland": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "enricos": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "aquatic resource group": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "enricos ristorante pizzeria and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "jasmine buffet": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "brazilian wax steele creek": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "nguyens noodles and tea": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "tattoo bills": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "ilovemilanos": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "milanos pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "wine shop at rivergate": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "greco fresh grille": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "just fresh": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "china tea room": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "sizzlewich": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "a piece of havana": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "kolapasi indian canteen": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "thai express nc": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "taco molino": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "twf burgers": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "first in flight bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "sabor latin street grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "wang and king asian cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "liu lius": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "siam garden": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "tasty bowl subs n such": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "spice asian kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "popcorn heaven steele creek": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "epic chophouse": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "jekyll and hyde taphouse and grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "foxhole and bar": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "empire pizza fort mill": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "ilios crafted greek": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "lucky duck": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "toast cafe fort mill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "521 bbq and grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "blacow burger": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "fratelli": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "peking tokyo asian cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "big wok fort mill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "poke bowlz": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "tega cay deli": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "miyabi jr": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "pho and sushi": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "fort mill bbq company": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "nothing but noodles": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "greek grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "showmars": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "cholanadu indian bistro": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "santhoshis kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "meto pub": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "akahana asian bistro bar and sushi": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "napolis pizzeria tega cay": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "saiki japanese": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "china ii": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "village pizza and italian": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "hoof and barrel": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "los aztecas": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "a and d hospitality": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "yoshi ramen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "ouzos pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "inizio pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "lets crab": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "mommas place": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "towne tavern at fort mill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "carolina seafood": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "sila thai": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "dosa n more": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "kobe rock hill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "rock hill diner": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "taqueria el manhattan": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "tokyo japan": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "milk cha cha south park": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "casa tequila mexican grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "hickory tavern": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "pops cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "shore club at tega cay": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "taqueria cielito lindo": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "nishie gs": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "delicacy chinese bistro": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "jasmine grill sc": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "gioninos": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "fuji japan": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "los cantaritos": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "chex grill and wings": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "nicks gyros and seafood": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "best china chinese": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "big wok ii": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "hobos": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "improper pig": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "libbies bistro": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "carlos cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "american burger company": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "napa at kingsley": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "pump house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "blue bar and smokehouse": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "emmets social table": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "cherry sushi and grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "fm eatery": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "tonys cantina mexican grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "bossy beulahs": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "regent park cafe": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "emilios pizza kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "salmeris italian kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "phat burrito": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "poppyseed kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "passion8 bistro": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "richies italian bistro at riverwalk": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "dixie pig rock hill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "pier 51": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "tokyo kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "whitakers": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "don pedro mexican": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "good life organic kitchen": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "aloha hawaiian bbq and grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "chanchos tacos": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "la poblanita mexican and candy store": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "flipside cafe": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "charlotte group": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "carmellas fort mill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "harrys grille and tavern": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "piedmont social house": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "jazz cafe": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "hokkaido japanese express": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "1368 sweet corner cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "pho ngon": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "patterson pizza companies": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "bocados grill usa": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "blue orchid": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "la blanca taqueria": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "mai japanese": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "famous toastery ayrsley": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "tropicals nut house": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "hempco": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "lawans": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "lee cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "joe mommas pizza and grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "salsas mexican grille": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "sri balaji caffe veg and vegan": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "firebirds international": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "global": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "el caney": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "captain steves family seafood": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "123 main mexico": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "dive n": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "crab du jour whitehall cajun seafood and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "kopper kettle": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "curry cake n kabab": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "chevere steakhouse grill and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "fort mill family": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "anjappar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "zafran kabab palace": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "cafe south": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "machu picchu pineville nc": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "joys biryani n kababs": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "panchitos mexican grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "big wallys barbecue": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "tortas y antojitos memo": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "tortilleria elizabeth": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "light rail family": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "la catracha": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "kabuto japanese steakhouse and sushi bar tyvola rd location": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "tamaleria laurita": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "costa del sol nc": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "chois korea and wing": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "don pedro mexican pineville": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "los paisas": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "jay bhavani indian vegetarian street food": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "andi valentino investments": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "hillbillys barbeque and steaks": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "la romero": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "lempira": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "ole mexican foods": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "cali colombian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "fonda mexicana el paraiso": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "yummy sushi": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "burrito factory": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "angelas mexican": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "medellin colombian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "romeos vegan burgers": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "vinduonwheels": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "el cancun": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "doans vietnamese cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "pollo royal": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "tacos bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "curry gate 2": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "pupusas for life": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "saigon palace": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "vn tofu": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "taqueria chile frito": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "crispy banh mi": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "jasmine grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "big apple deli": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "taqueria mexico of charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "mad greek of charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "sky asian bistro": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "punta cana": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "cherry house ii": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "el puro cuban": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "eatza pizza buffet": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "harpers": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "morazan": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "mega baleada": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "shake shake seafood": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "jasmine grill pineville": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "los chamos clt": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "mio posto": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "el veracruz": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "tavern 51": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "fridas mexican cantina": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "bombay grille": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "tlc wings and grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "quick wok": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "mr tokyo japanese": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "park 51 cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "musashi japanese": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "mystic spice": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "viva chicken": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "nakato japanese steakhouse": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "hello chicken colombia rotisserie": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "koibito poke": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "waldhorn": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "wan fu quality chinese cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "maverick rock taco": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "lostrica": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "resy"
+ },
+ "indigrille": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "yame asian noodles": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "hibiscus": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "levantes pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "turnhouse grille": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "bollywood bites": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "hamachi": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "anju": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "pasta and provisions": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "good food on montford": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "krazy curry": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "topsail steamer": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "roasting company": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "taipei south": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "lucky lous tavern": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "grouchos deli": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "easy like sunday": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "riceblossom": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "portofinos italian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "riceblossom authentic chinese cuisine taste of shu": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "tap and vine quail hollow": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "park lanes": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "brickstones grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "mama fus": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "rustys deli and grille": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "ilios noche quail corners": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "taqueria chulas": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "1900 mexican grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "rice and spice thai street food": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "wolfman pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "rusty onion": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "flatrock grille": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "carolina wings and rib house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "walnut grill ballantyne": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "blue taj indian cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "cabos mexican cuisine and cantina": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "azucar cuban": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "azul tequileria and cocina": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "kabuto japanese steakhouse and sushi bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "zinicola": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "trio": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "crust pizza sheikhupura": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "partners in thinc": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "flip a los": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "hestia rooftop": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "casa del tequila of ballantyne": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "nikko japanese and sushi bar": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "blue taj": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "la victoria mexican": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "prime fish sushi charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "juniper grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "gallery": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "opentable"
+ },
+ "zapatas cantina mexican": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "tonys italian and pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "akropolis cafe": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "bamboo 7 asian cuisine": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "salsaritas": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "king kabab": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "c and w steakhouse": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "resy"
+ },
+ "finale pizza and pasta": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "farm haus butcher and beer garden": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "tacos coranay": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "aroma indian grill and bar": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "pio pio": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "hanako asian sushi bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "local draft": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "indian fusion grill and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "cruzin reubenz": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "amazing wok": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "rizzos spaghetti house": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "thats amore": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "big view diner": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "stewart penicks terrace": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "wing king cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "hwy 55 burgers shakes and fries": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "asian one": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "blackfinn ameripub ballantyne": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "interior couture of carolinas": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "oggi ristorante italiano": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "kozi italian street food charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "amergent hospitality group": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "tsuki japanese steak house and sushi bar": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "bibim": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "chanticleer holdings": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "bes noodles and banh mi": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "zeitouni mediterranean grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "prw enterprises": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "zeitouni associates": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "vesuvio": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "aetius companies": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "ten seconds": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "poke cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "woodys seafood saloon": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "brasserie copain": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "brigs of ballantyne": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "lucas group": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "joys kitchen of charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "buona vita and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "wild east pan asian bistro": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "roosters wood fired kitchen winston salem": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "mochica peruvian rotisserie chicken": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "sheng ramen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "miro spanish grille": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "lorenzos pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "luisas brick oven pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "panca peruvian street food": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "bahn thai": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "american roadside burgers": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "midwood smokehouse": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "green flute cafe": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "umami pokerito": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "thrifty deli": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "librettos pizzeria charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "nolen kitchen": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "al basha halal grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "jimmy": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "mal pan": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "chick o rico": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "reids fine foods": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "la caseta montford": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "yusen logistics america": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "luce": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "oceanaire": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "gusto farm to street": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "131 main": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "bentleys": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "opentable"
+ },
+ "cabo fish taco": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "blynk organic": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "fine and fettle": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "leos italian social": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "corkbuzz": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "peppervine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "dtr southpark": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "sora": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "tock"
+ },
+ "bricktops palm beach gardens": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "oak steakhouse": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "toscana": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "terrace restaurants": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "lotus chinese cuisine ii": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "riccios italian": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "southern pecan": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "moosehead grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "rusty bucket": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "baoding": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "pacos tacos and tequila": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "cafe monte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "hawthornes new york pizza and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "charbar no 7": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "m5": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "baku": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "cowfish": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "little mamas italian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "steak 48 houston": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "mano bella": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "georges brasserie": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "yama asian fusion": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "moon thai and japanese cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "treehouse whiskey and fork": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "rh rooftop charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "rudys italian": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "senor tequila": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "lotus cuisine ii enterprise": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "poncho and willys border cafe": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "calle sol latin cafe and cevicheria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "yafo kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "tokyo one express": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "katz deli": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "aroojis wine room and ristorante": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "sanctuary bistro": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "ma ma wok": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "tipsy taco charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "napa on providence": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "limani": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "bradshaw social house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "ramen bar kazoku": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "18 asian and sushi bar": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "tap and vine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "chaat n dosa": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "pio pio blakeney": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "crunch bistro": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "cheese moz": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "basil thai cuisine ballantyne": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "aahaar25 indian vegetarian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "open rice blakeney": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "red sake": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "sushi guru": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "hazelnuts creperie": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "saltao peruvian fare": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "rai lay blakeney": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "fwc management group": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "barringtons": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "thai 1st bistro": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "cilantros": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "oshen": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "primefish cellar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "brooklyn pizza parlor": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "block and grinder": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "omakase experience by primefish": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "tock"
+ },
+ "foxcroft food and wine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "fresh chef kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "phils deli ii": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "cajun yard dog": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "red rocks cafe charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "gleibermans gourmet": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "leroy fox cotswold": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "link and pin": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "resy"
+ },
+ "chi thai chinese and thai cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "aqua e vino": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "resy"
+ },
+ "rocksalt": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "bella fresco": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "roz grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "curry junction": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "dakotas ii": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "opentable"
+ },
+ "eddies place": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "lula banh mi and pho": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "cherry blossom chinese": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "malaya kitchen asian fusion": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "island thyme": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "sushiya japan": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "miku asian kitchen": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "9 spices indian cuisine": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "tailored hr services": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "coco mexican": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "blanchards deli": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "le peep": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "salsaritas franchising": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "bleu barn": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "pressley park": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "dbs tavern": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "bisonte pizza co": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "nana morrisons soul food": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "vegan to go": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "knot like us": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "juniors pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "lai lai express": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "charter link": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "krustaceans seafood": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "anitas mexican grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "mr gs": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "kostas kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "true crafted pizza": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "pza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "la chiva loca": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "whisky river": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "new south kitchen and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "opentable"
+ },
+ "fish wing": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "belas indian grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "izzys at triple c": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "alchemy charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "fairwood 226": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "smoke pit": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "dees vegan to go": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "tacos and mas": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "mix grill and wings": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "counter": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "yakitori omakase by prime fish": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "tu one oh tacos": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "prices chicken coop": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "blacow": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "nikos grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "lawrence caribbean": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "catch 21": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "early girl eatery": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "gin mill south end": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "clock tower": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "tavern on tracks": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "vinyl": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "londas to go": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "sushihana": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "k and js kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "nicoles good eats and sweets": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "seoul food meat company": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "piezaa": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "nomad plovhouse": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "hellenic greek kitchen and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "south end hideaway": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "wagners steaks": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "lolas mexican kitchen": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "king richards": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "orosoko sound bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "opentable"
+ },
+ "fidels kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "lincoln street kitchen and cocktails": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "bardo": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "yume ramen sushi and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "tock"
+ },
+ "jjrs bbq shack": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "mint street pub": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "levant mediterranean cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "chill wills kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "hasaki grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "bernardins": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "sithara": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "fin and fino": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "hbx burgers": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "tacos rick o": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "mimosa grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "ohana poke": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "felix handmade empanadas": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "la belle helene": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "resy"
+ },
+ "horaces hot fried chicken": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "pudina": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "nefelies": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "nana lis by dumpling lady": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "ko sushi": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "queen city bites and crafts": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "1501 south mint": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "angelines": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "opentable"
+ },
+ "valhalla pub and eatery": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "bella ciao": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "moa korean bbq and bar": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "pie in sky pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "jjs red hots": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "graduate uptown": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "sonoma bistro": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "french quarter": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "energy cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "juniors nyc deli": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "essex bar and bistro": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "coquette": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "sonoma group": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "sandwich club": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "sukoshi": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "vapiano": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "trade and bar": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "mr charles chicken and fish": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "pokeatery": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "aria tuscan grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "redeye diner": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "room 112": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "sea grill and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "tock"
+ },
+ "desi adda": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "vida cantina": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "fujo bistro": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "morrison enterprises incorporated": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "woodward ave detroit style pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "ratcliffe on green": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "nirvana indian fusion": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "chicago petes": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "fuji hibachi and teriyaki grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "johnny burrito": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "king of fire pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "chima charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "exotica indian kitchen and bar": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "carolines oyster bar": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "albertine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "red ginger japanese steakhouse and sushi": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "morehead tavern": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "midnight diner": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "brazz": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "deans italian steakhouse": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "arts barbecue and deli": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "mazi": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "rai lay thai south blvd": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "manchester": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "muraya": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "bulgogi box": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "dram and draught greensboro": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "brown bag seafood": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "greek isles": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "lincolns haberdashery": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "capishe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "co op": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "dogwood southern table and bar": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "leroy fox south end": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "tremont kitchen bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "sals roadside eatery": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "fuel pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "tremont hospitality group": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "fidelli kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "dumpling lady": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "chapter 6": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "tupelo honey": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "rudinos pizza and grinders": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "zucca pizza tavern": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "bang bang burgers south end": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "living kitchen": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "yamazaru sushi and sake": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "la capital mx": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "bonterra and wine room": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "o ku": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "resy"
+ },
+ "indaco": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "resy"
+ },
+ "estampa gaucha brazilian steakhouse": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "para charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "oh miss": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "cluckn cup": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "300 east": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "copper modern indian cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "lunas living kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "leluia hall": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "tock"
+ },
+ "que tacos clt": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "nacho tacos": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "eagle charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "modern classics studios": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "bakersfield east blvd": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "lucianos ristorante italiano": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "dunavant": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "thai thai takeout": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "konnichiwa of fort mill sc": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "tacos 4 life": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "barolo tuscan grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "three amigos mexican kitchen and cantina": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "cantina 1511": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "yunta nikkei": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "sals pizza factory": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "persuasian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "rheinland haus": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "dolce ristorante": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "comet grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "catalunya cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "porcupine provisions": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "china saute": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "monsoon thai cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "macs speed shop": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "link and pin south end": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "resy"
+ },
+ "fiamma ristorante": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "tock"
+ },
+ "holler and dash": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "pho good time asian fusion": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "waterman fish bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "coco express": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "suns kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "eds tavern dilworth": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "irie nation": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "clt nutrition": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "bedder bedder and moore": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "zacks hamburgers": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "state of confusion charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "bottle cap management group": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "supperclub southend": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "henriettas": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "steak out charbroiled delivery": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "catalu": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "mar y tierra south tryon": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "yama loso": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "rally": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "kabab2go": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "pikes old fashioned soda shop": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "tres pesos woodlawn": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "caribbean hut": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "tryon house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "seoul poke bowl": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "parrilladas che gaucho": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "zepeddies pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "zodiac bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "steak n hoagie shop": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "atomic dog": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "chubz famous chiliburgers": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "mckoys smokehouse and saloon": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "tacos el nevado": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "southbound": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "brasas arepas and grill": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "boca marina": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "zen asian fusion": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "co": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "beef n bottle steakhouse": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "opentable"
+ },
+ "carolina prime steakhouse": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "fortune wok": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "earl black cuisine": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "park road soda shoppe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "saucemans": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "wings over charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "flour shop": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "air myers park": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "osteria luca": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "don quijote restaurante": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "meeting house on providence": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "providence road sundries": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "stagioni": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "yassou greek cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "primo prime": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "ru sans": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "volo ristorante": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "zio casual italian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "taipei express": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "88 china bistro": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "kitchen kocktails by kevin kelley": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "queen city wings": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "ace no 3": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "kid cashew": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "lets meat kbbq": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "1900 mexican grill and tequila bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "maharani indian cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "tazikis mediterranean cafe": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "ru rus tacos and tequila": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "rockin rolls sushi": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "wheelz pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "penguin drive in": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "dresslers": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "opentable"
+ },
+ "open rice metropolitan": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "pizzeria omaggio": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "social bar and kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "little village grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "pisces sushi bar and lounge": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "showmars government building": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "mama ricottas": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "kostas kitchen government center": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "china shuttle": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "nofo on elizabeth": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "us fried chicken": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "fifth fork": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "sun burger vegan cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "oph factory south": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "halal gyroman": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "roosters wood fired kitchen uptown": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "red salt": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "opentable"
+ },
+ "qtavern": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "papa rossis": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "sea level nc": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "forchetta": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "opentable"
+ },
+ "noca uptown": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "dons": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "villa francesca": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "7th and lounge": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "cpccs greenway": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "cuisine malaya": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "providence cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "customshop": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "franchise food tech": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "soho bistro": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "blue fork": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "sandwich max": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "white duck taco shop": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "7th st ny deli": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "amina clt": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "la autentica mexican": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "bella fusion": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "fig tree": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "warmack": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "intermezzo": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "whiskey warehouse": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "jj red hots": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "cajun queen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "cilantro kitchen": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "stomp chomp and roll": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "fahrenheit charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "thomas street tavern": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "el malo tacos": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "diamond": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "akahana asian bistro": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "mamas caribbean grill": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "plaza midwood": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "bistro la bon": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "johns country kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "moo and brew": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "fit kitchen plaza midwood": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "crisp charlotte": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "que onda tacos tequila": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "bang bang burgers": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "ho ho cherry house": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "cheats cheesesteaks": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "ooh la las": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "zada janes corner cafe": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "menya daruma": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "supperland": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "tock"
+ },
+ "catalina kitchen and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "tock"
+ },
+ "fit kitchen meal prep": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "fenwicks": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "aix en provence": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "ginbu 401": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "yama izakaya": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "lupies cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "east african cuisine eritrea": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "deejai thai": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "jackalopes restaurants": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "caswell station": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "bayou kitchen and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "jasmine grill and kabab": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "morris east": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "pure pizza": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "abugida ethiopian cafe and": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "ajbani moroccan cuisine": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "grinning mule": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "soul central": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "euro grill and cafe": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "adamarys restaurante y pupuseria": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "soul kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "thien phu": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "red line club": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "vanloi chinese barbecue": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "deli st charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "royal african cuisine": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "goodwurst co": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "eastside local eatery": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "peculiar rabbit": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "south 21 drive in": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "charlotte hibachi grill": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "loving hut vegan": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "taqueria number 1": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "sen mee noodle house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "estadio azteca": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "red sea and bar": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "mama sophies soul food": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "teal turnip": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "imani fusion cafe": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "table 274": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "los pinos mexican": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "berries n bites": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "soul rolls and wraps": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "shun lee palace": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "koishi": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "vipizza cramerton": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "dolce osteria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "el pancho villa mexican bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "crave hot dogs and bbq": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "terra mia italian ristorante and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "top taste grill": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "mayworths public house": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "eight and sand kitchen": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "groovy beast": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "hot shop grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "georgios": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "skyland family": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "station and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "estias kouzina": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "johnny bs pizza": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "string bean": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "belmonts specialty foods": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "belmont food and beverage": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "nellies southern kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "sake express": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "bottle tree": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "old stone steakhouse": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "taxco mexican grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "marrellis italian": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "two chicks sandwiches and scoops": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "lodge tavern and tap": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "pita wheel": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "joes touch of italy": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "cornerstone": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "ricos acai": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "peace n hominy q": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "captains cap": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "glenway premium pub": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "mep casual american cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "ritas family": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "jr cashs grill and bar at big water marina": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "whites": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "mount holly grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "sake express ii": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "rivers edge": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "littlespoon eatery": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "china two mt holly": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "pies and sides": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "papa sammys pizza": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "mr ds pizza palace": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "seafood boil nc": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "chicken bucket": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "vasileios italian kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "brightstar grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "holland": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "samvays wings and subs": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "jackbeagles mount holly": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "firehawk brewpub": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "woodshed steakhouse": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "petes grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "tacos y tortas el gordo": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "kanpai denver": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "boltons curbside cookery": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "one19 north main": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "little big horn": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "lowesville cafe": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "fresh chef cornelius": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "hunan to go": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "chillfire bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "belmont social house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "friendlys of stanley": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "miami fusion cafe denver nc": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "china ii denver": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "marchellos neighborhood italian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "rice box": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "everest grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "crafty burger n tap": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "nebo": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "fox and hound": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "stanley": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "smoke and go bbq": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "simonettis italian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "geppetos pizza and more": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "jays at lake": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "pho nam": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "tenders": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "coral sushi": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "safari miles": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "kung foo noodle": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "eez fusion and sushi": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "kabuto japanese steak house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "town hall provisions and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "waterman fish bar lkn": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "merts heart and soul": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "midtown sundries": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "la victoria cocina mexicana and bar": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "pizza peel and tap room": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "alabaster box media group": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "jin jin": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "house of taipei": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "goat pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "verde latin": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "sushi star": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "baobao authentic chinese cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "vape house": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "tacos and tortilla factory": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "lancasters bbq and wings": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "taste of buffalo pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "salam pizza": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "kickstand burgers n bar": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "antico italian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "oakhill deli and grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "japan": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "audreys specialty cakes": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "port city club": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "niyoshi ii": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "yoshis grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "chicken bee": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "pinkys westside grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "londas place": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "wok bo": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "everest bistro": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "paparazzi clt": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "bean vegan cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "big steve bbq paint": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "hop feng kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "las pupusas deli": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "lagz and bar": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "bamboo garden": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "kairu sushi and noodle bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "e2m kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "fu shing": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "k and n bbq": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "ichiban sushi and hibachi": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "fresh from grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "chicken king": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "yard cooked dishes": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "young kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "rai lay asian bistro riverbend": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "nakato": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "mariahs taco spot": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "seafood gyal": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "fedex office print and ship center": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "south 21 family": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "romeo and juliet pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "community table bistro": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "miguels": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "sammys neighborhood pub": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "three amigos mexican grill and cantina": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "stockyard": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "project halo": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "unisource": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "la villa 2": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "westend tavern": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "distinctive soul creations": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "mr 3s crab pot": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "capitaine bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "azul tacos and beer": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "33rd and main": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "taste of soul plantbased and vegan cuisine virtual kitchen we are 100 vegan inside citykitch virtual kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "shuffletown grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "mems thai kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "carolina family": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "maiz agua sal": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "sunny side of egg": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "marquee charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "opentable"
+ },
+ "hoppin johns": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "mad dash": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "meals by mariah": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "circle g": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "wu rons": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "queen city cheesesteaks": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "constance": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "lulus express": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "spoons": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "cravn caribbean": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "burger company": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "22 street kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "jackbeagles morehead": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "pizza baby": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "que fresa taqueria bar wesley heights": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "noble smoke": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "mama gees": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "tropical goodies 2": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "mr cs": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "grits charlotte": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "rocket pizza": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "uncle bs": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "original chicken and ribs": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "tops china": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "bite your tongue authentic new orleans cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "tora sushi and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "draught": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "angies diner": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "town": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "toucan louies": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "nikis food shop": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "savu charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "resy"
+ },
+ "arepadas": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "open kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "suruchis": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "bytes cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "tropical goodies": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "yakiko hibachi grill": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "arpa": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "gilligans": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "cedar street tavern": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "arbol eatery": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "bocao sushi": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "freshwaters southern new orleans": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "sub one hoagie house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "deluxe fun dining": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "opentable"
+ },
+ "mico": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "vbgb beer hall and garden": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "verona": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "greens lunch": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "stoke charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "skyview 22": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "alexander michaels": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "po boys low country seafood": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "feast at hom": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "seoul good": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "phils new york deli and tavern": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "pisco gastrolounge": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "church and union charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "resy"
+ },
+ "graham st pub and patio": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "saku yakitori and sushi bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "204 north kitchen and cocktails": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "poplar tapas wine and spirits": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "cowbell burger and whiskey bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "cocoas octails and jerk": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "ri ra irish pub": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "tavolo": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "daily atlanta": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "spaghett": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "tock"
+ },
+ "cellar at duckworths": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "resy"
+ },
+ "mcninch house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "opentable"
+ },
+ "serengeti kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "biryani nation express": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "sweet crunch": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "asbury": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "raydal hospitality": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "saru": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "pt media": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "spice charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "resy"
+ },
+ "pizzeria sapienza clt": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "livys neapolitan pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "xiao bao": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "babe and butcher": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "geno ds pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "botiwalla": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "el thrifty clt": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "rii ra sandwich bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "opentable"
+ },
+ "ava": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "soul miners garden": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "la caseta": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "zukku sushi clt": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "resy"
+ },
+ "malabar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "snow your roll": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "optimist hall": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "papi queso": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "boxcar bettys": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "dirtybirdz at smokehouse clt": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "harriets hamburgers": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "felix empanadas": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "bird pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "schreibers on rye": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "sunflower family": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "bao and broth": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "graham street grill": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "matts chicago dog": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "sweet lews bbq": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "ruthies on tryon": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "pagoda chinese": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "philly corner": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "qs culinary": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "el rinconcito de puebla": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "bubbas barbecue": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "tatsis": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "edomae sushi and hibachi grill": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "north state bbq": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "shirley kitchen corner": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "kasthamandap kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "curry gate": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "sunset soul food": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "china go go": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "bobs carry out pileem up": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "bobbee os bbq": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "bravo cucina italiana": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "h bar social": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "hunter house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "slangin meat": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "mamas pizza express": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "roppongi sushi and bar": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "hunter house and gardens": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "pho ginseng": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "las meras tortas": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "huntersville bagel bin and deli": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "mezcali mexican": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "killingtons": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "barvecue": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "lotus bowl": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "fusion 108": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "yeungs lotus express": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "cafe 100": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "kosei teki sushi asian takeout": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "thai emerald": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "boiling pot": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "mamas pizza express nc": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "omegas of charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "carolina maes soul food kitchen and bar": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "eastfield bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "mama mia too": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "chia bistro": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "slice house pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "sohh studio": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "blunotes of charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "rasin haitian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "teriyaki ii": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "da vincis pizza": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "island cuisine": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "golden taipei": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "fiesta maya mexican": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "tcb 54 hundred bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "wooden vine": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "derita dairy bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "hwy 55 burgers steaks and fries": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "due amici pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "super wok i": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "anjehs african and caribbean cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "village": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "floyds": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "irie nation and bar": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "rainbow grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "cocoas authentic jamaican jerk": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "lotus chinese cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "viet thai": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "marias grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "cao investments": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "jimmy pearls": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "pho at noda": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "degenerate": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "smokehouse clt": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "copperhead social club": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "goodyear house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "sea hut": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "villa taco": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "lunaclt": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "oh my soul": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "locos tacos clt": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "boudreauxs louisiana kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "exchange at 36th": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "finga lickin": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "pure pizza on plaza": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "roys kitchen and patio": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "taqueria gaviota latina": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "niyo sushi hibachi chinese food": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "jackbeagles noda": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "matties diner": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "charleston house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "noda bodega": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "basil charleston sc": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "charter 1": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "soul gastrolounge": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "tock"
+ },
+ "inland seafood wholesale": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "zanzibar cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "samoha african cuisine": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "deejai noodle bar": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "les sandwiches and cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "pollo al carbon los mocanos": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "texas ranch steakhouse and saloon": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "tacos la costena": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "haberdish": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "tock"
+ },
+ "dely pizza": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "dinos family": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "taqueria toluca": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "figo36": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "bone fish grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "buffalo eatz": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "la finca mexican": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "fonda las cazuelas": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "la riviera marisqueria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "foskoskies on shamrock": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "ely taqueria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "chin garden": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "tima african": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "enat ethiopian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "stacys": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "como en mexico": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "jack browns beer and burger joint noda charlotte nc": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "latitudes bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "jimador mexican grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "ever andalo": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "tock"
+ },
+ "lettys": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "pomodoros": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "westlake": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "mazatlan family mexican": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "cessies brooklyns pizza and pasta": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "no time to cook": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "nautical dawgs": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "citrus diner": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "harveys cornelius": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "joeys fine food and pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "h2 public house": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "16 prime steak and seafood": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "resy"
+ },
+ "pho nc": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "splash": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "juan loco": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "lobster dogs pub and deli": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "resy"
+ },
+ "peninsula prime": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "huangs china bistro": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "brooklyn south pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "hello sailor": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "exel global logistics": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "fusion bowl cornelius": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "cuzzos cuisine": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "sauce italian grille": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "poke lakes cornelius": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "port city java": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "deborah rees lmft": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "choplins": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "steak valet by choplins": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "zapatas": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "r j gators": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "fuzion bistro": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "thai house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "altons kitchen and cocktails": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "torrence and knox": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "prosciuttos pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "noboru japanese steakhouse and sushi bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "carnalitos mexican grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "saeeds bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "pasteles la andinita": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "table 31 lkn": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "big bitez grill cornelius": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "hello me vietnamese kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "acropolis cafe and grille": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "sullys steamers": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "north harbor club": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "milkbread": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "ny": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "maolas pizzeria and": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "sabi asian bistro": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "seaboy": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "eurest lowes cafe": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "barrel and fork": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "ositos tacos and tortas": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "las lupitas": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "danielsan": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "cool fish lkn": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "crafty burgr and tap": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "fontana di vino": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "davidson ice house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "serve pickleball kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "soda shop": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "masala mastee": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "crazy pig": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "novanta 90 pizzeria napoletana": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "opentable"
+ },
+ "habibi lebanon bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "mestizo contemporary mexican cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "brickhouse tavern st helens": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "homestyle kitchn": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "brooks sandwich house": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "kindred": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "char grill davidson": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "c3 pilates": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "il bosco": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "mingfu sushi and chinese": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "cafe bliss": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "flatiron kitchen and taphouse": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "egg cafe": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "el tecate mexican": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "mandolinos artisan pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "shuckin shack oyster bar": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "egg at davidson": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "wolfmans pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "marlee jeans raw bar and kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "duckworths grill and taphouse mooresville": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "sangam indian cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "waxhaw rock store bar b q": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "tandur indian kitchen": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "queen city craft and gourmet": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "wok chinese": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "yama waverly": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "aroojis wine room": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "lean kitchen company": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "la ceiba bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "ilios noche": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "resy"
+ },
+ "ruchi authentic indian cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "ms didis caribbean kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "hot mess nc": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "q shack": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "via roma": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "el carbonero": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "tonys big pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "smokey js bbq": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "mr seafood": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "harbor management company": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "ely tortilleria": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "carrburritos": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "tora izakaya": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "el jarocho": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "cuzcatlan": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "tropical grille": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "anatolia cafe and cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "fonda la taquiza": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "guatemalteca panaderia y restaurante": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "original tryon house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "jamiles cuisine international": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "ben thanh": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "al chile sport bar": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "pho quynh": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "el pulgarcito de america": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "copan": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "porters house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "la shish kabob": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "maluz mexican grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "jazzy cheesecakes": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "sushi machi": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "south 21 junior family": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "red sky grille": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "lang van": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "blacow burger and sushi bar": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "becentered counseling and consulting": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "african kitchen": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "magic sushi": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "somies bar and kitchen": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "hickory and heart": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "cuban": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "sandwich construction co": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "aroy thai charlotte": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "edgewater bar and grille": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "santa fe mexican": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "zizis vegan 2 go": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "hams": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "cooking pot african kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "sea food connection charlotte": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "china jade": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "jose restaurante": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "la caridad cocina latina": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "five steps ii": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "bodega deli": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "royal biryani": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "cottage": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "roppongi ramen bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "new zealand cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "super chin chin": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "grace": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "mi barrio halal latin grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "pho huong que": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "tacos el potosino": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "whoolis grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "pho viet and seafood": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "king of spicy": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "carnitas guanajuato mexican": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "korean": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "fusion lounge": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "queens soul food": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "fonda las tarascas": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "saigon bay vietnamese cuisine": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "el canal": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "juliana pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "ciros italian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "king fish poke": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "zapatas mexican": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "chens bistro": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "good eats and meets": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "el paisano": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "le kebab grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "banh mi brothers": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "mezeh mediterranean grill uncc": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "tulips": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "boardwalk billys raw bar and ribs": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "nc tavern": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "river buffet and grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "moon river thai bistro": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "pho at university": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "chatpatay": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "k stop": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "noreast treats and eats": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "hanabi sushi and hibachi": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "golden owl tavern": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": "resy"
+ },
+ "soldelish clt": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "teds steamed cheeseburgers": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "my camilles cafe camilles sidewalk cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "rolo poke": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "zoewees": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "crackin crawfish": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "pupusa 503": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "nicky ovens ny style pizzaria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "city grill and wings": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "que onda": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "sarangi indian and nepali cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "crab cracker": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "cuzzos cuisine ii": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "iron dish korean bbq": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "amalfis pizza n pasta": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "el tropico": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "new york diner": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "pandas den": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "veganeatsclt": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "touch of precision school of barbering": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "surviving battle pllc": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "restaurante y panaderia salvadorena": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "johnny evans bbq": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "shesleas pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "crab du jour uncc cajun seafood and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "la reina de las carnitas": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "halal food cart": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "golden gate chinese fast food": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "social 704": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "kos pool and bar": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "why not pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "party animals garage": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "red hot and blue": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "harbor inn seafood": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "crown point": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "tacos el regio": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "stacks kitchen": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "parkway house hickory": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "landmark diner": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "pepero": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "delicias restaurante latino": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "brazilian way and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "crepe bistro": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "x brazilian steakhouse": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "teddys pizza": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "kabob hot": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "giovannis pizza and pasta": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "hefs bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "east 74 family": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "lis noodles asian kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "savory swine bbq sauces": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "lams kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "kami chinese thai and sushi": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "somi sushi": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "phoenix pools": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "aj family": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "hot wok chinese": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "rons grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "curry place": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "be em asian kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "i heart mac and cheese": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "small bar matthews": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "phat daddys cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "brooklyn pizza parlor wesley chapel": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "ararat17": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "hacienda el rey austin village": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "buddys bed and biscuit": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "skin therapy at studio 5038": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "one tapas and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "mi pueblo mexican grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "boardwalk billys": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "johnny ks": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "stallings rockstore bar b q": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "athens pizza and kebab": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "noodles and kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "cactus rose cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "pizza spiga": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "steak n hoagie shop grecos": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "la autentica": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "omega coney island": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "athenian grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "pupuseria la pasadita": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "el cafetal": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "republica and lounge": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "la fonda colombiana": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "nanas soul food kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "gogo empanadas": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "south 21 matthews": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "dunwellz custom kitchen and pour house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "mannys mediterranean cafe": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "asian buffet and grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "captains galley": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "americana": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "chen fu chinese fast food": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "elliots bbq": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "picadelis pub in deli": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "poke honolulu": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "el cilantro": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "imperial treasure dim sum and authentic chinese cuisine": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "stool pigeons": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "jonathans": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "kabab je rotisserie and grille": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "ghengis grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "mint hill rock store barbecue": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "6 grogs": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "artful gourmet": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "lanzhou hand pulled noodles": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "umami sushi and grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "hibachi buffet matthews": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "vinnies sardine grill and raw bar": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "royal cafe and creperie": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "exchange pizza depot": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "green tomato home cooking": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "doghouse bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "sante": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "mingfu matthews": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "primavera pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "portrait gallery": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "s and m deli and grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "angelas pizza and": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "tacos and tequila cantina grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "ichiban buffet sushi and hibachi": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "passage to india indian cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "blow city charlotte bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "sosilegx": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "hanaya garden japanese grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "best china": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "bread and kabob": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "grovers grubberia": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "nazos wrapway": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "tacos el charro": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "spice garden": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "crawford brothers steakhouse": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "happy grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "yanni bistro": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "pokebowl ramen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "quidleys delight": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "capriccio pizza and italian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "kennys": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "jakes good eats": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "lakeview grill and tavern": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "vrtx and bar": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "hop feng 2": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "chilaka tacolab": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "jyotis world cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "daebak korean": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "carnitas mexican guanajuato": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "dairi o": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "americas best wings": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "stevens mill cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "mh hawthornes": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "rancho jalisco mexican": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "sheps bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "gordos mexican kitchen": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "big guys pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "sweets by demetria": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "mamas italian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "cornerstone pub and grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "kebab grill and wings": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "mia famiglia pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "sileos new york deli": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "moochies tavern": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "chokh di noodle house": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "wingdom wings": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "valley grill and yemeni kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "katrinas mexican grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "first china": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "kaizoku japanese cuisine and poke bowl": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "trail house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "resy"
+ },
+ "tickle my ribs bbq": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "china fun": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "sun valley cafe": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "hill bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "djs diner": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "bonfire bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "taco king taqueria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "rossinis italian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "charanda authentic mexican eatery": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "deejaks": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "terrys kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "shoku sushi and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "la vida mocha": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "bes noodles": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "crust and jam": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "redstone materials": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "el bohio tipico": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "johnny tomatoes": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "monroe grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "la fogata grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "trattoria on main": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "oasis sandwich shop": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "dukes grill": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "el vallarta bar and grill of concord": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "carnitas mexican guanajuato monroe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "lost parrot": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "jukebox": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "spot eatery bar and lounge": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "koumi express": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "mayfair seafood": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "shake shake seafood monroe": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "jade kitchen 2": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "napoli italian": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "broome street burgers": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "kabab n more": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "madras cafe": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "kaspers grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "rozolenos pizza cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "golden coast ii": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "peno mediterranean grill": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "palace": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "little country kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "cafe brundavan": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "queen sheba charlotte": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "american burger co": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "bachi": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "big tanks soulfull kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "toyama express": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "basilico italiano": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "pippas cafe": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "macs fish and chicken": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "chong chin": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "farleys pizzeria iii": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "midori sushi and hibachi": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "taste of india": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "dimaggios pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "island cuisine charlotte": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "antojos locos": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "house of leng": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "dragon boat charlotte": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "taste of asia": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "fumee": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "charanda mexican grill and cantina": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "triveni express": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "pizza twist": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "tintin cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "poke n ramen 360": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "fresh off grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "nanas porch": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "utopia": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "nawabs kebabs": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "sticky fingers ribhouse bbq concord": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "mayflower seafood": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "sofies steakhouse": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "little dooey barbeque and blues": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "alino pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "giacomos pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "milagros latin cuisine": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "saj mediterranean grill and cafe": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "nick and mike bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "lakefront": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "world of knowledge": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "alpha omega grill and pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "tsunami japanese steakhouse and sushi bar": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "biryani pot indian grill and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "early waffle": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "motley crue": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "michael waltrip taproom": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "mai thai ii": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "ab kabab": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "lodge wood fired grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "sushi queen sushi and grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "bear paw": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "sunshines asian cuisine": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "chophouse 101": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "halal kitchen ink": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "cinco de mayo mexican grill": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "corner crust pizza and brew": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "town house ii": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "rocky river grille": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "captain steves seafood": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "blues bbq": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "what a burger": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "bonsai kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "lake todd fish camp": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "corner station deli": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "gateway to athens": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "fire mountain": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "native burger": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "full moon oyster bar and seafood": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "rosarios pizza": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "el navegante": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "afton tavern": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "mikes village grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "nonnas italian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "fast track": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "afton pub and pizza": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "l and l hawaiian grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "asian cafe": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "captains galley seafood": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "cholas indian grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "royal dragon": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "village corner comfort kitchen and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "red chillez indian cuisine": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "louis grille and family": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "johnny rogers bbq and burgers": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "sogo express": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "brooklyns pizzeria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "mexitime mexican grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "wake up and eat": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "44 mills kitchen and tap": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "chill dogs": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "ichi japanese express": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "west a street grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "o": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "chong chin chinese": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "bubbas bunkhouse": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "harrisburg family house": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "fish and fixins": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "la romas pizza": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "taco mobile": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "hot tuna wok and roll bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "sushi queen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "sun sing express chinese food": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "fushing chinese": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "what a burger no 15": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "three monkeys tavern and grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "sunshine family": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "giannis trattoria": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "mochica chicken": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "fiesta mexicana grill": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "carolina grill company": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "havana carolina cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "crack of dawn diner": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "depot deli": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "fuji japanese steakhouse and sushi bar": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "lil papis international deli": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "lupitas bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "wayside family of stanfield": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "sogo": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "jade express in new bern": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "wasabi cafe": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "crispys bar and grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "mykonos grill salisbury": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "yum yum shawarma falafel wings": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "latin american quetzal": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "chef thai and sushi bar": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "breakfastime": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "johnnys farmhouse": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "hibachi pit": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "tacos el peladito": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "isabelas pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "romanos pizza italian": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "supermercado lupitas": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "texas steakhouse and saloon": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "pier 51 seafood": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "kitchen 223": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "new asian cuisine": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "k and w cafeteria": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "charros mexican": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "troutmans bar b q": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "sabaidee thai and sushi bar concord": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "loffredos ristorante": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "grill at 11 union": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "birritaco": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "not just franks": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "chez francois": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "benny dacorsas": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "southern china": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "avenues": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "chopbox": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "parkway house family on union street": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "southern prime smokehouse": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "hot box next level kitchen": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "amigo taqueria": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "el amigo mexican": {
+  "checked": "2026-11-06",
+  "fails": 0
+ },
+ "senor agave mexican grill and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "coachs neighborhood grill kannapolis": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "mrburrito mexican grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "marcos pizza": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "a js": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "south 29 grill": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "shortstops burgers and shakes kannapolis": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": null
+ },
+ "north 29 grill": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "cricketts place": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": null
+ },
+ "tacoz y tortilleria acapulco": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": true,
+  "order": true,
+  "book": "opentable"
+ },
+ "towel city tavern": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "havana carolina and bar": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": true,
+  "book": "opentable"
+ },
+ "flyin buffalo": {
+  "checked": "2026-11-06",
+  "fails": 0,
+  "delivery": false,
+  "order": false,
+  "book": null
+ },
+ "mayfair": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "takara sushi and steakhouse": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "flaming chinese buffet": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "touchdown pizza": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "e noodles asian bistro": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "dannys place concord": {
+  "checked": "2026-11-06",
+  "fails": 1
+ },
+ "mustafas place": {
+  "checked": "2026-11-06",
+  "fails": 1
+ }
+}
