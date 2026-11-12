@@ -2,13 +2,15 @@
 
 1. Pulls Charlotte-area food places from Overture Maps (only when a new monthly release is out).
 2. Keeps local, open, full-service restaurants and drops out-of-town chains.
-3. Checks restaurant websites for delivery, online ordering and reservation links.
-4. Merges the hand-curated staff picks and writes data/restaurants.json.
+3. Checks restaurant websites for delivery, online ordering and reservation links, and for signs a
+   restaurant has closed: a closing notice, a parked or for-sale domain, a domain that no longer exists,
+   or a domain taken over by an unrelated site.
+4. Merges the hand-curated staff picks (dropping any that Overture marks closed) and writes data/restaurants.json.
 
 Run:  python scripts/build_data.py [--skip-web] [--force-overture] [--web-budget=N]
 """
 import json, math, os, re, sys, time, hashlib, datetime, unicodedata
-import urllib.request, urllib.robotparser, urllib.parse
+import urllib.request, urllib.robotparser, urllib.parse, socket
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -17,6 +19,7 @@ BUCKET = "https://overturemaps-us-west-2.s3.us-west-2.amazonaws.com"
 BBOX = dict(xmin=-81.10, xmax=-80.55, ymin=34.95, ymax=35.55)  # Charlotte metro incl. Lake Norman and Fort Mill
 UA = "QueenCityTableBot/1.0 (+https://queencitytable.com)"
 TODAY = datetime.date.today().isoformat()
+CHECKER = "2026-11-12"   # bump to recheck every website on the next run
 
 def log(*a): print(*a, flush=True)
 
@@ -110,7 +113,7 @@ CUI_LABEL = {"bbq":"BBQ","tasting":"Tasting menu","steak":"steakhouse","japanese
   "italian":"Italian","med":"Mediterranean","asian":"Asian","seafood":"Seafood","southern":"Southern","breakfast":"Breakfast and brunch",
   "veg":"Vegetarian","casualfare":"Casual","global":"Global","american":"American"}
 
-NAME_EXCLUDE = re.compile(r"water ice|ice cream|gelato|creamery|bakery|bakeshop|donut|doughnut|cupcake|cookie|coffee|espresso|tea house|boba|juice|smoothie|catering|caterer|food truck|vending|market|grocery|supermarket|frozen yogurt|sno ?ball|shaved ice", re.I)
+NAME_EXCLUDE = re.compile(r"\b(holdings?|management|investments?|hospitality|restaurant group|associates|enterprises|motorcar|materials|media|studios?|school of|interior)\b|water ice|ice cream|gelato|creamery|bakery|bakeshop|donut|doughnut|cupcake|cookie|coffee|espresso|tea house|boba|juice|smoothie|catering|caterer|food truck|vending|market|grocery|supermarket|frozen yogurt|sno ?ball|shaved ice", re.I)
 NAME_CUISINE = [
   ("japanese", r"sushi|ramen|hibachi|izakaya|poke|teriyaki|japanese"),
   ("asian", r"\bpho\b|banh mi|dumpling|noodle|\bthai\b|curry|tandoor|masala|biryani|\bwok\b|szechuan|sichuan|china|chinese|korean|bbq korean|vietnam|indian|nepal|himalayan|bangkok|saigon|hunan|dim sum"),
@@ -129,6 +132,7 @@ NAME_CUISINE = [
 
 def clean_name(n):
     n = (n or "").strip()
+    n = re.sub(r",?\s+(llc|l\.l\.c|inc|corp)\.?$", "", n, flags=re.I)   # legal names: "Farley's Pizzeria Iii Llc"
     n = re.split(r",\s", n)[0]
     n = re.sub(r"\s[-|@]\s.*$", "", n)
     return n.strip()
@@ -176,7 +180,43 @@ SIG = {
   "resy": re.compile(r"resy\.com", re.I),
   "opentable": re.compile(r"opentable\.com", re.I),
   "tock": re.compile(r"exploretock\.com", re.I),
+  # Signs the restaurant is gone. Checked against visible page text only.
+  "closed": re.compile(r"permanently closed|closed permanently|(have|has) (officially )?closed (our|its|the) doors|closed our doors|"
+                       r"we are (now )?closed for good|closed for good|our (final|last) day of service|final day of service|"
+                       r"is now permanently closed|ceased operations|no longer (open|in business|operating)", re.I),
+  "parked": re.compile(r"domain (is|may be) for sale|buy this domain|domain is parked|parked domain|parked free|sedoparking|hugedomains|"
+                       r"afternic|godaddy\.com/forsale|domain has expired|account (has been )?suspended|this account has been suspended", re.I),
+  "temp": re.compile(r"temporarily closed|closed temporarily|closed for renovations?", re.I),
 }
+SPAM_HOST = re.compile(r"casino|togel|slot|gacor|poker|lottery|prediksi|peptide|forsale|sedo\.com|expireddomains|parking|\d(4d|5d)\b", re.I)
+
+def page_text(html):
+    html = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>", " ", html)
+    return re.sub(r"\s+", " ", re.sub(r"(?s)<[^>]+>", " ", html))
+
+def host_of(url):
+    return urllib.parse.urlsplit(url).netloc.lower().split(":")[0].removeprefix("www.")
+
+def dns_gone(host):
+    for h in {host, "www." + host}:
+        try:
+            socket.getaddrinfo(h, 443); return False
+        except socket.gaierror:
+            continue
+        except Exception:
+            return False
+    return True
+
+def same_site(a, b):
+    """Same site if the hosts match or share their first label (site builders like name.lany.io -> name.edan.io)."""
+    return a == b or a.split(".")[0] == b.split(".")[0]
+
+def name_on_page(name, text, host):
+    """True if a distinctive word of the restaurant's name shows up on the page or in the web address."""
+    words = [w for w in norm(name).split() if len(w) >= 4 and w not in ("grill", "kitchen", "cafe", "restaurant", "pizza", "food", "house", "street", "charlotte", "family", "express", "mexican", "chinese", "bistro", "sushi")]
+    if not words: return True
+    low = norm(text[:200000]); h = host.replace("-", "")
+    return any(w in low or w in h for w in words)
 _robots = {}
 def allowed(url):
     parts = urllib.parse.urlsplit(url)
@@ -191,21 +231,31 @@ def allowed(url):
         _robots[base] = rp
     return _robots[base].can_fetch(UA, url)
 
-def check_site(url):
+def check_site(url, name=""):
     try:
         if not url.startswith("http"): url = "https://" + url
+        host = host_of(url)
         if not allowed(url): return {"ok": True, "blocked": True}
         req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html"})
         with urllib.request.urlopen(req, timeout=12) as r:
+            final = r.geturl()
             html = r.read(800_000).decode("utf-8", "ignore")
+        text = page_text(html)
+        fhost = host_of(final)
+        if SIG["parked"].search(text) or SIG["closed"].search(text): return {"ok": True, "gone": True, "why": "notice"}
+        if not same_site(fhost, host) and (SPAM_HOST.search(fhost) or not name_on_page(name, text + " " + html[:300000], fhost)):
+            return {"ok": True, "gone": True, "why": "taken over"}
         plat = bool(SIG["delivery_platform"].search(html))
         order = bool(SIG["ordering"].search(html))
         book = next((k for k in ("resy", "opentable", "tock") if SIG[k].search(html)), None)
-        return {"ok": True, "delivery": plat or (order and bool(SIG["delivery_word"].search(html))),
-                "order": order or plat, "book": book}
+        return {"ok": True, "temp": bool(SIG["temp"].search(text)),
+                "delivery": plat or (order and bool(SIG["delivery_word"].search(html))), "order": order or plat, "book": book}
     except urllib.error.HTTPError as e:
-        return {"ok": e.code not in (404, 410), "code": e.code}
+        if e.code in (404, 410): return {"ok": False, "gone": True, "why": f"http {e.code}"}
+        return {"ok": True, "code": e.code}   # 403/429/5xx usually means a bot blocker, not a closed restaurant
     except Exception as e:
+        if isinstance(getattr(e, "reason", None), socket.gaierror) or isinstance(e, socket.gaierror):
+            if dns_gone(host_of(url)): return {"ok": False, "gone": True, "why": "domain gone"}
         return {"ok": False, "err": type(e).__name__}
 
 def run_web_checks(concepts, signals, budget, drop_after):
@@ -214,10 +264,15 @@ def run_web_checks(concepts, signals, budget, drop_after):
     log(f"Checking {len(due)} restaurant websites")
     done = 0
     with ThreadPoolExecutor(max_workers=16) as ex:
-        futs = {ex.submit(check_site, c["web"]): c for c in due}
+        futs = {ex.submit(check_site, c["web"], c["name"]): c for c in due}
         for f in as_completed(futs):
             c = futs[f]; r = f.result(); s = signals.get(c["key"], {})
             s["checked"] = TODAY
+            s.pop("gone", None); s.pop("temp", None)
+            if r.get("gone"):
+                s["gone"] = r.get("why", "yes")   # hidden right away; rechecked later in case it comes back
+            if r.get("temp"):
+                s["temp"] = True
             if r.get("ok"):
                 s["fails"] = 0
                 if not r.get("blocked") and "delivery" in r:
@@ -280,15 +335,19 @@ def main():
     signals = load(P("cache","web_signals.json"), {})
     if "--skip-web" not in args:
         budget = next((int(a.split("=")[1]) for a in args if a.startswith("--web-budget=")), st.get("website_checks_per_night", 400))
-        if not signals: budget = max(budget, 5000)   # first run: check every website once
+        if not signals or state.get("checker") != CHECKER: budget = max(budget, 5000)   # first run or new checker: check every website once
+        state["checker"] = CHECKER
         signals = run_web_checks(concepts, signals, budget, st.get("drop_after_failed_checks", 3))
         save(P("cache","web_signals.json"), signals)
     live = {c["key"] for c in concepts}
     signals = {k: v for k, v in signals.items() if k in live}   # forget restaurants no longer listed
     save(P("cache","web_signals.json"), signals)
-    dead = {k for k, s in signals.items() if s.get("fails", 0) >= st.get("drop_after_failed_checks", 3)}
+    dead = {k for k, s in signals.items() if s.get("fails", 0) >= st.get("drop_after_failed_checks", 3) or s.get("gone") or s.get("temp")}
+    log(f"Hidden after website checks: {len(dead)} ({sum(1 for k in dead if signals[k].get('gone'))} look closed, {sum(1 for k in dead if signals[k].get('temp'))} temporarily closed)")
 
     staff = load(P("data","staff_picks.json"), {})
+    open_keys = {norm(p["brand"] or p["name"]) for p in places if (p["status"] or "open") == "open"}
+    closed_keys = {norm(p["brand"] or p["name"]) for p in places if p["status"] == "permanently_closed"} - open_keys
     out_areas = nb["areas"]
     cuisines = dict(staff.get("cuisines", {}))
     cuisines.update({"american": "American & bar food", "breakfast": "Breakfast & brunch", "veg": "Vegetarian & vegan", "global": "French, Spanish & global"})
@@ -297,6 +356,8 @@ def main():
     by_key = {c["key"]: c for c in concepts}
     for r in staff.get("restaurants", []):
         k = norm(r["name"]); seen.add(k)
+        if r.get("closed") or (k in closed_keys and not r.get("ours")):
+            log(f"  Staff pick looks closed, skipping: {r['name']}"); continue
         match = by_key.get(k) or next((c for c in concepts if c["key"].startswith(k[:12]) or k.startswith(c["key"][:12])), None)
         s = signals.get(match["key"], {}) if match else {}
         r = dict(r, staff=True)
@@ -304,7 +365,7 @@ def main():
         add_signals(r, s)
         restaurants.append(r)
     for c in sorted(concepts, key=lambda c: c["name"].lower()):
-        if c["key"] in seen or c["key"] in dead: continue
+        if c["key"] in seen or (c["key"] in dead and c["key"] not in keep): continue
         if any(c["key"].startswith(k) or k.startswith(c["key"]) for k in seen if len(k) > 6): continue
         s = signals.get(c["key"], {})
         hid = hashlib.md5(c["key"].encode()).hexdigest()[:6]
