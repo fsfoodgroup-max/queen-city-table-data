@@ -1,5 +1,5 @@
 {
-  "_about": "Edit these lists to control the guide. Names are matched without regard to case or punctuation.",
+  "_about": "Edit these lists to control the guide. Names are matched without regard to case or punctuation. Names in always_keep skip the chain check and are never hidden by the website checks (use it for a place you know is open but whose website looks dead).",
   "always_keep": [
     "Midwood Smokehouse",
     "Yafo Kitchen",
@@ -27,7 +27,16 @@
     "Yard House",
     "Zenshi Sushi",
     "bb.q Chicken",
-    "Salsarita's Franchising"
+    "Salsarita's Franchising",
+    "Tattoo Bill's",
+    "Hempco",
+    "World Of Knowledge",
+    "Charter 1",
+    "Sweets by Demetria",
+    "Oh Miss",
+    "Nebo",
+    "Dakotas Ii",
+    "Firebirds International"
   ],
   "settings": {
     "chain_threshold_outside_carolinas": 8,
