@@ -1,32 +1,32 @@
 {
  "milanos pizza and pasta": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "kickin pig": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "nc noodle bar": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "tropical sunrise cafe": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "brooklyn pizza and pasta": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "tropical escape cafe": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "island grill and pub": {
@@ -46,11 +46,11 @@
  },
  "fatz cafe": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "chefs kitchen": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "kochi by lake": {
@@ -63,7 +63,7 @@
  },
  "big allison creek in lake wylie sc": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "http 404"
  },
  "charanda of rock hill": {
@@ -117,7 +117,7 @@
  },
  "rainbow asian bistro": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "shrimp boat": {
@@ -150,7 +150,7 @@
  },
  "caddy shack": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "southern salads": {
@@ -197,7 +197,7 @@
  },
  "lilys bistro": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "http 404"
  },
  "hootie whoooo": {
@@ -356,7 +356,7 @@
  },
  "farmland": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "enricos": {
@@ -368,7 +368,7 @@
  },
  "aquatic resource group": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "enricos ristorante pizzeria and bar": {
@@ -387,7 +387,7 @@
  },
  "brazilian wax steele creek": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "nguyens noodles and tea": {
   "checked": "2026-11-12",
@@ -469,7 +469,7 @@
  },
  "twf burgers": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "http 410"
  },
  "first in flight bar": {
@@ -495,7 +495,7 @@
  },
  "liu lius": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "siam garden": {
@@ -521,7 +521,7 @@
  },
  "popcorn heaven steele creek": {
   "checked": "2026-11-12",
-  "fails": 1,
+  "fails": 0,
   "delivery": true,
   "order": true,
   "book": null
@@ -574,12 +574,12 @@
  },
  "521 bbq and grill": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "blacow burger": {
   "checked": "2026-11-12",
-  "fails": 2,
+  "fails": 3,
   "delivery": false,
   "order": false,
   "book": null
@@ -621,7 +621,7 @@
  },
  "miyabi jr": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "pho and sushi": {
   "checked": "2026-11-12",
@@ -629,7 +629,7 @@
  },
  "fort mill bbq company": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "nothing but noodles": {
@@ -691,7 +691,7 @@
  },
  "saiki japanese": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "china ii": {
@@ -703,7 +703,7 @@
  },
  "village pizza and italian": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "hoof and barrel": {
   "checked": "2026-11-12",
@@ -749,7 +749,7 @@
  },
  "mommas place": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "http 404"
  },
  "towne tavern at fort mill": {
@@ -761,12 +761,11 @@
  },
  "carolina seafood": {
   "checked": "2026-11-12",
-  "fails": 5,
-  "gone": "http 404"
+  "fails": 6
  },
  "sila thai": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "dosa n more": {
   "checked": "2026-11-12",
@@ -913,11 +912,11 @@
  },
  "improper pig": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "libbies bistro": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "carlos cafe": {
@@ -962,7 +961,7 @@
  },
  "cherry sushi and grill": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "fm eatery": {
@@ -988,7 +987,7 @@
  },
  "regent park cafe": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "emilios pizza kitchen": {
@@ -1021,7 +1020,7 @@
  },
  "passion8 bistro": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "richies italian bistro at riverwalk": {
@@ -1058,22 +1057,22 @@
  },
  "don pedro mexican": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "good life organic kitchen": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "http 404"
  },
  "aloha hawaiian bbq and grill": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "chanchos tacos": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "la poblanita mexican and candy store": {
   "checked": "2026-11-12",
@@ -1084,7 +1083,7 @@
  },
  "flipside cafe": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "http 404"
  },
  "carmellas fort mill": {
@@ -1107,7 +1106,7 @@
  },
  "jazz cafe": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "hokkaido japanese express": {
@@ -1119,14 +1118,14 @@
  },
  "1368 sweet corner cafe": {
   "checked": "2026-11-12",
-  "fails": 2,
+  "fails": 3,
   "delivery": true,
   "order": true,
   "book": null
  },
  "pho ngon": {
   "checked": "2026-11-12",
-  "fails": 1
+  "fails": 2
  },
  "patterson pizza companies": {
   "checked": "2026-11-12",
@@ -1137,7 +1136,7 @@
  },
  "bocados grill usa": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "blue orchid": {
@@ -1157,7 +1156,7 @@
  },
  "famous toastery ayrsley": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "http 404"
  },
  "tropicals nut house": {
@@ -1194,12 +1193,12 @@
  },
  "sri balaji caffe veg and vegan": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "global": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "el caney": {
@@ -1215,7 +1214,7 @@
  },
  "123 main mexico": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "dive n": {
   "checked": "2026-11-12",
@@ -1240,7 +1239,7 @@
  },
  "curry cake n kabab": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "chevere steakhouse grill and bar": {
@@ -1252,7 +1251,7 @@
  },
  "fort mill family": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "http 404"
  },
  "anjappar": {
@@ -1320,12 +1319,12 @@
  },
  "light rail family": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "la catracha": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "kabuto japanese steakhouse and sushi bar tyvola rd location": {
@@ -1334,7 +1333,7 @@
  },
  "tamaleria laurita": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "costa del sol nc": {
@@ -1389,7 +1388,7 @@
  },
  "ole mexican foods": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "cali colombian": {
   "checked": "2026-11-12",
@@ -1414,11 +1413,11 @@
  },
  "burrito factory": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "angelas mexican": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "http 404"
  },
  "medellin colombian": {
@@ -1488,10 +1487,11 @@
  },
  "vn tofu": {
   "checked": "2026-11-12",
-  "fails": 1,
+  "fails": 0,
   "delivery": false,
   "order": false,
-  "book": null
+  "book": null,
+  "gone": "notice"
  },
  "taqueria chile frito": {
   "checked": "2026-11-12",
@@ -1513,7 +1513,7 @@
  },
  "big apple deli": {
   "checked": "2026-11-12",
-  "fails": 1,
+  "fails": 0,
   "delivery": true,
   "order": true,
   "book": null
@@ -1531,7 +1531,7 @@
  },
  "sky asian bistro": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "punta cana": {
@@ -1578,7 +1578,7 @@
  },
  "mega baleada": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "shake shake seafood": {
   "checked": "2026-11-12",
@@ -1589,7 +1589,7 @@
  },
  "jasmine grill pineville": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "http 404"
  },
  "los chamos clt": {
@@ -1612,7 +1612,7 @@
  },
  "tavern 51": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "http 404"
  },
  "fridas mexican cantina": {
@@ -1624,7 +1624,7 @@
  },
  "bombay grille": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "tlc wings and grill": {
   "checked": "2026-11-12",
@@ -1635,7 +1635,7 @@
  },
  "quick wok": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "mr tokyo japanese": {
@@ -1707,7 +1707,7 @@
  },
  "maverick rock taco": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "http 404"
  },
  "lostrica": {
@@ -1745,7 +1745,7 @@
  },
  "bollywood bites": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "hamachi": {
@@ -1846,7 +1846,7 @@
  },
  "tap and vine quail hollow": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "http 404"
  },
  "park lanes": {
@@ -1885,7 +1885,7 @@
  },
  "taqueria chulas": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "1900 mexican grill": {
   "checked": "2026-11-12",
@@ -1982,7 +1982,7 @@
  },
  "partners in thinc": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "flip a los": {
   "checked": "2026-11-12",
@@ -2000,12 +2000,12 @@
  },
  "casa del tequila of ballantyne": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "http 404"
  },
  "nikko japanese and sushi bar": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "http 404"
  },
  "blue taj": {
@@ -2014,7 +2014,7 @@
  },
  "la victoria mexican": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "prime fish sushi charlotte": {
@@ -2054,12 +2054,12 @@
  },
  "akropolis cafe": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "bamboo 7 asian cuisine": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "salsaritas": {
@@ -2103,7 +2103,7 @@
  },
  "aroma indian grill and bar": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "pio pio": {
@@ -2138,14 +2138,14 @@
  },
  "amazing wok": {
   "checked": "2026-11-12",
-  "fails": 1,
+  "fails": 2,
   "delivery": false,
   "order": false,
   "book": null
  },
  "rizzos spaghetti house": {
   "checked": "2026-11-12",
-  "fails": 1
+  "fails": 0
  },
  "thats amore": {
   "checked": "2026-11-12",
@@ -2206,7 +2206,7 @@
  },
  "tsuki japanese steak house and sushi bar": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "bibim": {
@@ -2239,7 +2239,7 @@
  },
  "aetius companies": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "ten seconds": {
@@ -2294,17 +2294,17 @@
  },
  "wild east pan asian bistro": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "roosters wood fired kitchen winston salem": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "http 404"
  },
  "mochica peruvian rotisserie chicken": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "sheng ramen": {
@@ -2345,7 +2345,7 @@
  },
  "american roadside burgers": {
   "checked": "2026-11-12",
-  "fails": 4
+  "fails": 5
  },
  "midwood smokehouse": {
   "checked": "2026-11-12",
@@ -2356,7 +2356,7 @@
  },
  "green flute cafe": {
   "checked": "2026-11-12",
-  "fails": 4,
+  "fails": 5,
   "gone": "domain gone"
  },
  "umami pokerito": {
@@ -2382,7 +2382,7 @@
  },
  "nolen kitchen": {
   "checked": "2026-11-12",
-  "fails": 4,
+  "fails": 5,
   "gone": "domain gone"
  },
  "al basha halal grill": {
@@ -2430,7 +2430,7 @@
  },
  "yusen logistics america": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "luce": {
   "checked": "2026-11-12",
@@ -2969,7 +2969,7 @@
  },
  "rocksalt": {
   "checked": "2026-11-12",
-  "fails": 5,
+  "fails": 6,
   "gone": "domain gone"
  },
  "bella fresco": {
@@ -3105,7 +3105,7 @@
  },
  "lai lai express": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "charter link": {
   "checked": "2026-11-12",
@@ -3571,7 +3571,7 @@
  },
  "jjs red hots": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "graduate uptown": {
   "checked": "2026-11-12",
@@ -3604,7 +3604,7 @@
  },
  "juniors nyc deli": {
   "checked": "2026-11-12",
-  "fails": 5
+  "fails": 6
  },
  "essex bar and bistro": {
   "checked": "2026-11-12",
